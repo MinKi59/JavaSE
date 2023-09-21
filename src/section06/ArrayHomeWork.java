@@ -15,7 +15,7 @@ public class ArrayHomeWork {
 			}
 			System.out.println();
 		}
-		
+		System.out.println("결과>");
 		while (sum < 13) {
 			for (int i = 0; i < 7; i++) {
 				for (int j = 0; j < 7; j++) {
