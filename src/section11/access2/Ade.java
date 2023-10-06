@@ -16,10 +16,12 @@ public class Ade extends Drink {
 		super.printInfo();
 		System.out.println("isZero: " + isZero);
 	}
-	
+
 	public boolean isZero() {
 		return isZero;
 	}
-	
-	
+
+	public void setZero(boolean isZero) {
+		this.isZero = isZero;
+	}
 }
